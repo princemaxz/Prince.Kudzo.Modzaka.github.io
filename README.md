@@ -1,4 +1,4 @@
-# Prince.Kudzo.Modzaka.github.io
+# Prince-Kudzo-Modzaka.github.io
 
 # Data Science 
 
